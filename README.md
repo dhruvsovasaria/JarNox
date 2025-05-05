@@ -95,7 +95,12 @@ You should see the **"Hello World"** message.
 
 ## 📸 **Screenshots**
 
-Here, you can optionally add any screenshots of your Jenkins job logs or the EC2 instance dashboard.
+![WhatsApp Image 2025-05-05 at 22 39 50_69db74ed](https://github.com/user-attachments/assets/0f4330c3-f0e9-46c2-9c3b-646c5d079480)
+![WhatsApp Image 2025-05-05 at 18 55 39_307af2f2](https://github.com/user-attachments/assets/cb4df055-299a-4e8d-ba5d-6b605c127dc6)
+![WhatsApp Image 2025-05-06 at 02 00 16_a13da3e7](https://github.com/user-attachments/assets/f44d7716-e11c-45ec-bec7-e394bba1831c)
+![WhatsApp Image 2025-05-06 at 01 43 30_c0fd4f15](https://github.com/user-attachments/assets/5e8a3d06-0aae-47d5-9b2d-59ff6e209ad7)
+
+
 
 ---
 
